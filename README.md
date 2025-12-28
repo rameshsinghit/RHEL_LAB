@@ -20,6 +20,6 @@ This repository contains essential RHEL components including system basics, comm
 | 6   |  4  | Task Scheduler Configuration | https://github.com/Manx2004/rhel-labs/blob/main/Task_scheduler%20Configurations.pdf|
 ## Connect with me 👍
 
-LinkedIn  :  [https://www.linkedin.com/in/maneesh-g-7a99882a8/](https://www.linkedin.com/in/maneesh-g-7a99882a8/)
+LinkedIn  :  www.linkedin.com/in/rameshsinghit
 
-Gmail     :  [gmaneesh2004@gmail.com](gmaneesh2004@gmail.com)
+Gmail     :  rameshit1616@gmail.com
