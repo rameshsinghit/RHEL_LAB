@@ -1,6 +1,3 @@
-# RHEL_LAB
-A professional repository showcasing RHEL configurations, system administration workflows, service management procedures, troubleshooting steps, and comprehensive PDF documentation. Structured to highlight strong foundational skills in Linux, DevOps, and enterprise infrastructure operations.
-
 # RHEL Repository
 
 ## Introduction
@@ -20,6 +17,6 @@ This repository contains essential RHEL components including system basics, comm
 | 6   |  4  | Task Scheduler Configuration | https://github.com/Manx2004/rhel-labs/blob/main/Task_scheduler%20Configurations.pdf|
 ## Connect with me 👍
 
-LinkedIn  :  www.linkedin.com/in/rameshsinghit
+LinkedIn  :  [https://www.linkedin.com/in/maneesh-g-7a99882a8/](https://www.linkedin.com/in/maneesh-g-7a99882a8/)
 
-Gmail     :  rameshit1616@gmail.com
+Gmail     :  [gmaneesh2004@gmail.com](gmaneesh2004@gmail.com)
