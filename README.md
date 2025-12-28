@@ -9,14 +9,14 @@ This repository contains essential RHEL components including system basics, comm
 ## 📋 Table
 | No. | Week | Topic | Document |
 |-----|------|--------|-----------|
-| 1   |   1  |   Manual RPM Installation & Telnet Configuration     | https://github.com/Manx2004/rhel-labs/blob/main/Manual%20RPM%20Installation%20%26%20Telnet%20Configuration.docx          |
-|  2  |  1   | Configuring a Local YUM Server in RHEL (Offline ISO Method) | https://github.com/Manx2004/rhel-labs/blob/main/YUM%20Server%20Configuration.pdf |
-| 3    |  2  |  DHCP Configuration   | https://github.com/Manx2004/rhel-labs/blob/main/DHCP_Configuration.pdf  |
-|  4   |  2  |  SSH Server Configurations | https://github.com/Manx2004/rhel-labs/blob/main/SSH_Server_Configuration.pdf |
-| 5    |  3  | Samba Server Configurations | https://github.com/Manx2004/rhel-labs/blob/main/Samba_server_configuration.pdf |
-| 6   |  4  | Task Scheduler Configuration | https://github.com/Manx2004/rhel-labs/blob/main/Task_scheduler%20Configurations.pdf|
+| 1   |   1  |   Manual RPM Installation & Telnet Configuration | https://github.com/rameshsinghit/RHEL_LAB/blob/main/Manual%20RPM%20Installation%20%26%20Telnet%20Configuration.docx          |
+|  2  |  1   | Configuring a Local YUM Server in RHEL (Offline ISO Method) | https://github.com/rameshsinghit/RHEL_LAB/blob/main/YUM%20Server%20Configuration.pdf |
+| 3    |  2  |  DHCP Configuration   | https://github.com/rameshsinghit/RHEL_LAB/blob/main/DHCP_Configuration.pdf  |
+|  4   |  2  |  SSH Server Configurations | https://github.com/rameshsinghit/RHEL_LAB/blob/main/SSH_Server_Configuration.pdf |
+| 5    |  3  | Samba Server Configurations | https://github.com/rameshsinghit/RHEL_LAB/blob/main/Samba_server_configuration.pdf |
+| 6   |  4  | Task Scheduler Configuration | https://github.com/rameshsinghit/RHEL_LAB/blob/main/Task_scheduler%20Configurations.pdf|
 ## Connect with me 👍
 
-LinkedIn  :  [https://www.linkedin.com/in/maneesh-g-7a99882a8/](https://www.linkedin.com/in/maneesh-g-7a99882a8/)
+LinkedIn  :  www.linkedin.com/in/rameshsinghit
 
-Gmail     :  [gmaneesh2004@gmail.com](gmaneesh2004@gmail.com)
+Gmail     :  rameshit1616@gmail.com
